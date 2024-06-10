@@ -1,6 +1,6 @@
 ## Todo-X | To Do List - React App
 
-### [Demo Link](https://todo-x.netlify.app/) 🔗
+### [Demo Link](https://todo-davido.netlify.app/) 🔗
 
 A React Task Management App which performs all the CRUD operations.
 <br/>
